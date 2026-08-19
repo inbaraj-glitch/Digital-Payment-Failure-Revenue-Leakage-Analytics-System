@@ -1,0 +1,26 @@
+bank_id,bank_name,bank_type
+BANK001,State Bank,Private
+BANK002,HDFC Bank,Private
+BANK003,ICICI Bank,Private
+BANK004,Axis Bank,Public
+BANK005,Kotak Bank,Private
+BANK006,IndusInd Bank,Private
+BANK007,Yes Bank,Private
+BANK008,IDFC First Bank,Public
+BANK009,Federal Bank,Public
+BANK010,Bank of Baroda,Public
+BANK011,Punjab National Bank,Public
+BANK012,Canara Bank,Private
+BANK013,Union Bank,Public
+BANK014,Indian Bank,Private
+BANK015,Bank of India,Private
+BANK016,RBL Bank,Public
+BANK017,AU Small Finance Bank,Public
+BANK018,Bandhan Bank,Private
+BANK019,South Indian Bank,Private
+BANK020,Karnataka Bank,Public
+BANK021,City Union Bank,Public
+BANK022,Tamilnad Mercantile Bank,Private
+BANK023,UCO Bank,Private
+BANK024,Central Bank,Private
+BANK025,Indian Overseas Bank,Private

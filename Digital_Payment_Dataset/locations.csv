@@ -1,0 +1,101 @@
+location_id,city,state,country,region
+LOC001,Visakhapatnam,Rajasthan,India,West
+LOC002,Ahmedabad,Andhra Pradesh,India,West
+LOC003,Visakhapatnam,Telangana,India,East
+LOC004,Kochi,Maharashtra,India,Central
+LOC005,Visakhapatnam,Andhra Pradesh,India,Central
+LOC006,Delhi,Gujarat,India,South
+LOC007,Vijayawada,Kerala,India,Central
+LOC008,Vijayawada,Maharashtra,India,East
+LOC009,Ahmedabad,Maharashtra,India,West
+LOC010,Indore,West Bengal,India,North
+LOC011,Bengaluru,Kerala,India,East
+LOC012,Madurai,Maharashtra,India,North
+LOC013,Bengaluru,Andhra Pradesh,India,South
+LOC014,Hyderabad,Rajasthan,India,East
+LOC015,Jaipur,Telangana,India,West
+LOC016,Mumbai,Karnataka,India,West
+LOC017,Indore,Maharashtra,India,East
+LOC018,Bengaluru,Maharashtra,India,East
+LOC019,Pune,Gujarat,India,West
+LOC020,Coimbatore,Gujarat,India,North
+LOC021,Delhi,Kerala,India,East
+LOC022,Lucknow,Andhra Pradesh,India,West
+LOC023,Jaipur,Karnataka,India,Central
+LOC024,Kolkata,Maharashtra,India,East
+LOC025,Mysuru,Telangana,India,South
+LOC026,Coimbatore,Madhya Pradesh,India,South
+LOC027,Mysuru,Telangana,India,East
+LOC028,Salem,Gujarat,India,West
+LOC029,Trichy,Madhya Pradesh,India,North
+LOC030,Ahmedabad,Andhra Pradesh,India,East
+LOC031,Ahmedabad,West Bengal,India,South
+LOC032,Kolkata,Telangana,India,North
+LOC033,Pune,Rajasthan,India,Central
+LOC034,Mysuru,Rajasthan,India,North
+LOC035,Delhi,Gujarat,India,Central
+LOC036,Kochi,Kerala,India,South
+LOC037,Lucknow,Telangana,India,Central
+LOC038,Kolkata,Delhi,India,North
+LOC039,Lucknow,West Bengal,India,South
+LOC040,Tiruppur,Kerala,India,North
+LOC041,Kochi,Maharashtra,India,East
+LOC042,Ahmedabad,Delhi,India,North
+LOC043,Mysuru,Kerala,India,East
+LOC044,Trichy,Madhya Pradesh,India,East
+LOC045,Jaipur,Uttar Pradesh,India,Central
+LOC046,Jaipur,Maharashtra,India,East
+LOC047,Indore,Karnataka,India,Central
+LOC048,Ahmedabad,Kerala,India,East
+LOC049,Coimbatore,Uttar Pradesh,India,South
+LOC050,Chennai,Madhya Pradesh,India,Central
+LOC051,Kolkata,Telangana,India,North
+LOC052,Mysuru,Uttar Pradesh,India,Central
+LOC053,Kochi,West Bengal,India,South
+LOC054,Ahmedabad,Kerala,India,East
+LOC055,Lucknow,Telangana,India,South
+LOC056,Visakhapatnam,Rajasthan,India,West
+LOC057,Pune,Kerala,India,South
+LOC058,Jaipur,Telangana,India,South
+LOC059,Delhi,Telangana,India,South
+LOC060,Hyderabad,Maharashtra,India,North
+LOC061,Chennai,Tamil Nadu,India,North
+LOC062,Hyderabad,Karnataka,India,South
+LOC063,Bengaluru,Tamil Nadu,India,West
+LOC064,Bengaluru,Telangana,India,West
+LOC065,Salem,West Bengal,India,Central
+LOC066,Mumbai,Rajasthan,India,South
+LOC067,Chennai,Delhi,India,Central
+LOC068,Kochi,Rajasthan,India,East
+LOC069,Delhi,West Bengal,India,West
+LOC070,Coimbatore,Tamil Nadu,India,East
+LOC071,Trichy,Telangana,India,East
+LOC072,Chennai,Karnataka,India,South
+LOC073,Kolkata,West Bengal,India,West
+LOC074,Jaipur,Rajasthan,India,Central
+LOC075,Tiruppur,West Bengal,India,East
+LOC076,Bengaluru,Maharashtra,India,South
+LOC077,Delhi,Maharashtra,India,North
+LOC078,Coimbatore,Kerala,India,West
+LOC079,Indore,Tamil Nadu,India,North
+LOC080,Bengaluru,Karnataka,India,Central
+LOC081,Ahmedabad,Maharashtra,India,Central
+LOC082,Indore,Telangana,India,Central
+LOC083,Mumbai,Kerala,India,West
+LOC084,Delhi,Delhi,India,East
+LOC085,Jaipur,Rajasthan,India,South
+LOC086,Ahmedabad,Maharashtra,India,East
+LOC087,Chennai,Uttar Pradesh,India,West
+LOC088,Mysuru,Maharashtra,India,North
+LOC089,Delhi,Andhra Pradesh,India,South
+LOC090,Mysuru,Uttar Pradesh,India,Central
+LOC091,Indore,Telangana,India,North
+LOC092,Indore,Kerala,India,East
+LOC093,Bengaluru,Andhra Pradesh,India,South
+LOC094,Salem,Karnataka,India,Central
+LOC095,Kolkata,Uttar Pradesh,India,South
+LOC096,Indore,Madhya Pradesh,India,East
+LOC097,Salem,Uttar Pradesh,India,West
+LOC098,Tiruppur,Telangana,India,East
+LOC099,Jaipur,Telangana,India,West
+LOC100,Vijayawada,Uttar Pradesh,India,Central

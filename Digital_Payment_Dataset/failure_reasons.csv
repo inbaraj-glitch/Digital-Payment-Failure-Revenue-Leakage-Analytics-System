@@ -1,0 +1,13 @@
+failure_reason_id,failure_reason,failure_category
+FR01,Technical Error,System
+FR02,Network Failure,Network
+FR03,Authentication Failed,Authentication
+FR04,Insufficient Balance,Financial
+FR05,Transaction Limit Exceeded,Financial
+FR06,Bank Declined,Bank
+FR07,Payment Gateway Timeout,Gateway
+FR08,Invalid PIN/OTP,Authentication
+FR09,Fraud/Security Check,Security
+FR10,Cancelled by Customer,Customer
+FR11,Duplicate Transaction,Validation
+FR12,Merchant Error,Merchant

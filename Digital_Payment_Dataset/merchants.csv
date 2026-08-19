@@ -1,0 +1,1001 @@
+merchant_id,merchant_name,merchant_category,merchant_segment
+MER0001,Merchant_0001,Healthcare,Medium
+MER0002,Merchant_0002,Services,Small
+MER0003,Merchant_0003,Entertainment,Large
+MER0004,Merchant_0004,Education,Small
+MER0005,Merchant_0005,Healthcare,Small
+MER0006,Merchant_0006,Education,Medium
+MER0007,Merchant_0007,Grocery,Medium
+MER0008,Merchant_0008,Services,Small
+MER0009,Merchant_0009,Retail,Small
+MER0010,Merchant_0010,Retail,Small
+MER0011,Merchant_0011,Utilities,Medium
+MER0012,Merchant_0012,Food & Dining,Small
+MER0013,Merchant_0013,Food & Dining,Medium
+MER0014,Merchant_0014,E-commerce,Medium
+MER0015,Merchant_0015,Education,Medium
+MER0016,Merchant_0016,Travel,Medium
+MER0017,Merchant_0017,Travel,Medium
+MER0018,Merchant_0018,Entertainment,Small
+MER0019,Merchant_0019,Education,Small
+MER0020,Merchant_0020,Grocery,Small
+MER0021,Merchant_0021,E-commerce,Medium
+MER0022,Merchant_0022,Grocery,Medium
+MER0023,Merchant_0023,Utilities,Small
+MER0024,Merchant_0024,Travel,Large
+MER0025,Merchant_0025,Services,Medium
+MER0026,Merchant_0026,Retail,Medium
+MER0027,Merchant_0027,Retail,Small
+MER0028,Merchant_0028,E-commerce,Small
+MER0029,Merchant_0029,Travel,Medium
+MER0030,Merchant_0030,Retail,Small
+MER0031,Merchant_0031,Food & Dining,Medium
+MER0032,Merchant_0032,Food & Dining,Enterprise
+MER0033,Merchant_0033,Entertainment,Medium
+MER0034,Merchant_0034,Education,Medium
+MER0035,Merchant_0035,Utilities,Medium
+MER0036,Merchant_0036,Entertainment,Small
+MER0037,Merchant_0037,Retail,Large
+MER0038,Merchant_0038,Food & Dining,Large
+MER0039,Merchant_0039,E-commerce,Medium
+MER0040,Merchant_0040,Travel,Small
+MER0041,Merchant_0041,Food & Dining,Small
+MER0042,Merchant_0042,Healthcare,Small
+MER0043,Merchant_0043,Utilities,Medium
+MER0044,Merchant_0044,Retail,Small
+MER0045,Merchant_0045,Grocery,Medium
+MER0046,Merchant_0046,Entertainment,Medium
+MER0047,Merchant_0047,Retail,Small
+MER0048,Merchant_0048,Healthcare,Medium
+MER0049,Merchant_0049,Services,Small
+MER0050,Merchant_0050,Utilities,Large
+MER0051,Merchant_0051,Education,Small
+MER0052,Merchant_0052,Food & Dining,Small
+MER0053,Merchant_0053,Entertainment,Small
+MER0054,Merchant_0054,Food & Dining,Enterprise
+MER0055,Merchant_0055,Healthcare,Medium
+MER0056,Merchant_0056,Entertainment,Small
+MER0057,Merchant_0057,Grocery,Small
+MER0058,Merchant_0058,Services,Medium
+MER0059,Merchant_0059,Travel,Small
+MER0060,Merchant_0060,Grocery,Enterprise
+MER0061,Merchant_0061,Entertainment,Large
+MER0062,Merchant_0062,Food & Dining,Medium
+MER0063,Merchant_0063,E-commerce,Enterprise
+MER0064,Merchant_0064,Education,Small
+MER0065,Merchant_0065,Retail,Small
+MER0066,Merchant_0066,Services,Small
+MER0067,Merchant_0067,Utilities,Small
+MER0068,Merchant_0068,Entertainment,Enterprise
+MER0069,Merchant_0069,Retail,Small
+MER0070,Merchant_0070,Food & Dining,Large
+MER0071,Merchant_0071,Food & Dining,Medium
+MER0072,Merchant_0072,Food & Dining,Small
+MER0073,Merchant_0073,Entertainment,Small
+MER0074,Merchant_0074,Education,Small
+MER0075,Merchant_0075,Grocery,Small
+MER0076,Merchant_0076,Healthcare,Medium
+MER0077,Merchant_0077,Education,Medium
+MER0078,Merchant_0078,Grocery,Medium
+MER0079,Merchant_0079,Retail,Medium
+MER0080,Merchant_0080,Travel,Small
+MER0081,Merchant_0081,Travel,Small
+MER0082,Merchant_0082,Travel,Large
+MER0083,Merchant_0083,Retail,Small
+MER0084,Merchant_0084,Food & Dining,Small
+MER0085,Merchant_0085,Entertainment,Medium
+MER0086,Merchant_0086,Travel,Large
+MER0087,Merchant_0087,Grocery,Large
+MER0088,Merchant_0088,Utilities,Small
+MER0089,Merchant_0089,Retail,Medium
+MER0090,Merchant_0090,E-commerce,Small
+MER0091,Merchant_0091,Healthcare,Large
+MER0092,Merchant_0092,Grocery,Small
+MER0093,Merchant_0093,Travel,Small
+MER0094,Merchant_0094,Food & Dining,Large
+MER0095,Merchant_0095,Entertainment,Large
+MER0096,Merchant_0096,Education,Medium
+MER0097,Merchant_0097,E-commerce,Small
+MER0098,Merchant_0098,Travel,Medium
+MER0099,Merchant_0099,Food & Dining,Large
+MER0100,Merchant_0100,Entertainment,Medium
+MER0101,Merchant_0101,Education,Small
+MER0102,Merchant_0102,Healthcare,Small
+MER0103,Merchant_0103,Services,Large
+MER0104,Merchant_0104,Entertainment,Medium
+MER0105,Merchant_0105,Healthcare,Medium
+MER0106,Merchant_0106,E-commerce,Small
+MER0107,Merchant_0107,Travel,Medium
+MER0108,Merchant_0108,Retail,Enterprise
+MER0109,Merchant_0109,Services,Small
+MER0110,Merchant_0110,Healthcare,Medium
+MER0111,Merchant_0111,Retail,Small
+MER0112,Merchant_0112,Retail,Small
+MER0113,Merchant_0113,Retail,Medium
+MER0114,Merchant_0114,Retail,Large
+MER0115,Merchant_0115,Utilities,Medium
+MER0116,Merchant_0116,Grocery,Small
+MER0117,Merchant_0117,E-commerce,Small
+MER0118,Merchant_0118,Entertainment,Large
+MER0119,Merchant_0119,Food & Dining,Small
+MER0120,Merchant_0120,E-commerce,Large
+MER0121,Merchant_0121,Travel,Small
+MER0122,Merchant_0122,Entertainment,Large
+MER0123,Merchant_0123,Food & Dining,Large
+MER0124,Merchant_0124,Healthcare,Small
+MER0125,Merchant_0125,Travel,Medium
+MER0126,Merchant_0126,Education,Small
+MER0127,Merchant_0127,E-commerce,Small
+MER0128,Merchant_0128,Healthcare,Medium
+MER0129,Merchant_0129,Retail,Medium
+MER0130,Merchant_0130,Healthcare,Small
+MER0131,Merchant_0131,Healthcare,Medium
+MER0132,Merchant_0132,E-commerce,Small
+MER0133,Merchant_0133,Utilities,Small
+MER0134,Merchant_0134,Healthcare,Medium
+MER0135,Merchant_0135,Healthcare,Medium
+MER0136,Merchant_0136,Grocery,Medium
+MER0137,Merchant_0137,E-commerce,Medium
+MER0138,Merchant_0138,Travel,Large
+MER0139,Merchant_0139,Entertainment,Medium
+MER0140,Merchant_0140,Services,Small
+MER0141,Merchant_0141,Education,Medium
+MER0142,Merchant_0142,Healthcare,Medium
+MER0143,Merchant_0143,Healthcare,Medium
+MER0144,Merchant_0144,Entertainment,Medium
+MER0145,Merchant_0145,Grocery,Small
+MER0146,Merchant_0146,E-commerce,Small
+MER0147,Merchant_0147,Grocery,Medium
+MER0148,Merchant_0148,E-commerce,Small
+MER0149,Merchant_0149,Travel,Medium
+MER0150,Merchant_0150,Services,Medium
+MER0151,Merchant_0151,Services,Medium
+MER0152,Merchant_0152,Education,Medium
+MER0153,Merchant_0153,Retail,Small
+MER0154,Merchant_0154,Healthcare,Enterprise
+MER0155,Merchant_0155,Education,Medium
+MER0156,Merchant_0156,E-commerce,Small
+MER0157,Merchant_0157,E-commerce,Small
+MER0158,Merchant_0158,E-commerce,Small
+MER0159,Merchant_0159,Food & Dining,Medium
+MER0160,Merchant_0160,Travel,Small
+MER0161,Merchant_0161,Utilities,Small
+MER0162,Merchant_0162,Utilities,Small
+MER0163,Merchant_0163,Grocery,Medium
+MER0164,Merchant_0164,Utilities,Medium
+MER0165,Merchant_0165,Entertainment,Medium
+MER0166,Merchant_0166,E-commerce,Large
+MER0167,Merchant_0167,Healthcare,Small
+MER0168,Merchant_0168,Grocery,Medium
+MER0169,Merchant_0169,Healthcare,Small
+MER0170,Merchant_0170,Grocery,Medium
+MER0171,Merchant_0171,Healthcare,Medium
+MER0172,Merchant_0172,E-commerce,Small
+MER0173,Merchant_0173,Entertainment,Small
+MER0174,Merchant_0174,Entertainment,Large
+MER0175,Merchant_0175,Retail,Small
+MER0176,Merchant_0176,E-commerce,Small
+MER0177,Merchant_0177,Education,Large
+MER0178,Merchant_0178,Entertainment,Medium
+MER0179,Merchant_0179,Grocery,Medium
+MER0180,Merchant_0180,Retail,Large
+MER0181,Merchant_0181,Travel,Small
+MER0182,Merchant_0182,E-commerce,Small
+MER0183,Merchant_0183,E-commerce,Medium
+MER0184,Merchant_0184,Food & Dining,Medium
+MER0185,Merchant_0185,Retail,Small
+MER0186,Merchant_0186,Grocery,Small
+MER0187,Merchant_0187,E-commerce,Small
+MER0188,Merchant_0188,E-commerce,Large
+MER0189,Merchant_0189,Retail,Small
+MER0190,Merchant_0190,E-commerce,Large
+MER0191,Merchant_0191,Retail,Enterprise
+MER0192,Merchant_0192,Services,Medium
+MER0193,Merchant_0193,Travel,Medium
+MER0194,Merchant_0194,Healthcare,Small
+MER0195,Merchant_0195,Utilities,Small
+MER0196,Merchant_0196,Healthcare,Medium
+MER0197,Merchant_0197,Healthcare,Small
+MER0198,Merchant_0198,Travel,Small
+MER0199,Merchant_0199,E-commerce,Medium
+MER0200,Merchant_0200,Utilities,Medium
+MER0201,Merchant_0201,E-commerce,Medium
+MER0202,Merchant_0202,Entertainment,Small
+MER0203,Merchant_0203,Entertainment,Small
+MER0204,Merchant_0204,Healthcare,Medium
+MER0205,Merchant_0205,Services,Large
+MER0206,Merchant_0206,Retail,Large
+MER0207,Merchant_0207,Education,Small
+MER0208,Merchant_0208,Services,Small
+MER0209,Merchant_0209,Education,Large
+MER0210,Merchant_0210,Services,Small
+MER0211,Merchant_0211,Travel,Small
+MER0212,Merchant_0212,Grocery,Small
+MER0213,Merchant_0213,Retail,Medium
+MER0214,Merchant_0214,Food & Dining,Small
+MER0215,Merchant_0215,E-commerce,Small
+MER0216,Merchant_0216,Retail,Medium
+MER0217,Merchant_0217,Healthcare,Small
+MER0218,Merchant_0218,Services,Medium
+MER0219,Merchant_0219,Education,Medium
+MER0220,Merchant_0220,E-commerce,Medium
+MER0221,Merchant_0221,Retail,Small
+MER0222,Merchant_0222,Healthcare,Medium
+MER0223,Merchant_0223,Retail,Small
+MER0224,Merchant_0224,Grocery,Small
+MER0225,Merchant_0225,Grocery,Medium
+MER0226,Merchant_0226,Healthcare,Medium
+MER0227,Merchant_0227,Services,Small
+MER0228,Merchant_0228,Travel,Small
+MER0229,Merchant_0229,Education,Small
+MER0230,Merchant_0230,Healthcare,Medium
+MER0231,Merchant_0231,Grocery,Medium
+MER0232,Merchant_0232,E-commerce,Medium
+MER0233,Merchant_0233,Services,Medium
+MER0234,Merchant_0234,Utilities,Large
+MER0235,Merchant_0235,E-commerce,Small
+MER0236,Merchant_0236,Education,Small
+MER0237,Merchant_0237,Healthcare,Large
+MER0238,Merchant_0238,Healthcare,Small
+MER0239,Merchant_0239,Grocery,Medium
+MER0240,Merchant_0240,Travel,Small
+MER0241,Merchant_0241,Grocery,Large
+MER0242,Merchant_0242,Grocery,Small
+MER0243,Merchant_0243,Utilities,Small
+MER0244,Merchant_0244,Travel,Medium
+MER0245,Merchant_0245,Travel,Small
+MER0246,Merchant_0246,Entertainment,Large
+MER0247,Merchant_0247,Travel,Small
+MER0248,Merchant_0248,E-commerce,Medium
+MER0249,Merchant_0249,E-commerce,Small
+MER0250,Merchant_0250,Food & Dining,Large
+MER0251,Merchant_0251,Education,Large
+MER0252,Merchant_0252,Entertainment,Medium
+MER0253,Merchant_0253,Food & Dining,Large
+MER0254,Merchant_0254,Travel,Small
+MER0255,Merchant_0255,Retail,Large
+MER0256,Merchant_0256,E-commerce,Medium
+MER0257,Merchant_0257,Entertainment,Large
+MER0258,Merchant_0258,Services,Medium
+MER0259,Merchant_0259,Entertainment,Small
+MER0260,Merchant_0260,E-commerce,Medium
+MER0261,Merchant_0261,Education,Small
+MER0262,Merchant_0262,Utilities,Medium
+MER0263,Merchant_0263,Healthcare,Small
+MER0264,Merchant_0264,Utilities,Small
+MER0265,Merchant_0265,Services,Enterprise
+MER0266,Merchant_0266,Retail,Large
+MER0267,Merchant_0267,Food & Dining,Large
+MER0268,Merchant_0268,Travel,Medium
+MER0269,Merchant_0269,E-commerce,Medium
+MER0270,Merchant_0270,Utilities,Medium
+MER0271,Merchant_0271,Utilities,Small
+MER0272,Merchant_0272,Grocery,Large
+MER0273,Merchant_0273,Entertainment,Large
+MER0274,Merchant_0274,Food & Dining,Medium
+MER0275,Merchant_0275,Education,Large
+MER0276,Merchant_0276,Travel,Medium
+MER0277,Merchant_0277,Education,Small
+MER0278,Merchant_0278,Travel,Large
+MER0279,Merchant_0279,Food & Dining,Medium
+MER0280,Merchant_0280,Grocery,Medium
+MER0281,Merchant_0281,Travel,Small
+MER0282,Merchant_0282,Services,Medium
+MER0283,Merchant_0283,Grocery,Medium
+MER0284,Merchant_0284,Entertainment,Medium
+MER0285,Merchant_0285,Retail,Medium
+MER0286,Merchant_0286,Retail,Small
+MER0287,Merchant_0287,Healthcare,Medium
+MER0288,Merchant_0288,Entertainment,Large
+MER0289,Merchant_0289,Retail,Small
+MER0290,Merchant_0290,Travel,Small
+MER0291,Merchant_0291,Healthcare,Small
+MER0292,Merchant_0292,Grocery,Large
+MER0293,Merchant_0293,Entertainment,Medium
+MER0294,Merchant_0294,Travel,Large
+MER0295,Merchant_0295,Utilities,Medium
+MER0296,Merchant_0296,Retail,Medium
+MER0297,Merchant_0297,Services,Medium
+MER0298,Merchant_0298,Retail,Small
+MER0299,Merchant_0299,Retail,Small
+MER0300,Merchant_0300,Travel,Medium
+MER0301,Merchant_0301,Retail,Small
+MER0302,Merchant_0302,Healthcare,Small
+MER0303,Merchant_0303,Education,Small
+MER0304,Merchant_0304,Entertainment,Small
+MER0305,Merchant_0305,Utilities,Small
+MER0306,Merchant_0306,Utilities,Medium
+MER0307,Merchant_0307,Grocery,Small
+MER0308,Merchant_0308,Travel,Small
+MER0309,Merchant_0309,Entertainment,Small
+MER0310,Merchant_0310,E-commerce,Medium
+MER0311,Merchant_0311,E-commerce,Medium
+MER0312,Merchant_0312,Food & Dining,Large
+MER0313,Merchant_0313,Entertainment,Large
+MER0314,Merchant_0314,Travel,Small
+MER0315,Merchant_0315,E-commerce,Small
+MER0316,Merchant_0316,Entertainment,Small
+MER0317,Merchant_0317,Education,Large
+MER0318,Merchant_0318,E-commerce,Medium
+MER0319,Merchant_0319,Entertainment,Small
+MER0320,Merchant_0320,Utilities,Small
+MER0321,Merchant_0321,Healthcare,Medium
+MER0322,Merchant_0322,Travel,Small
+MER0323,Merchant_0323,Retail,Large
+MER0324,Merchant_0324,Utilities,Medium
+MER0325,Merchant_0325,Education,Medium
+MER0326,Merchant_0326,Travel,Medium
+MER0327,Merchant_0327,Food & Dining,Small
+MER0328,Merchant_0328,Healthcare,Medium
+MER0329,Merchant_0329,Travel,Medium
+MER0330,Merchant_0330,Entertainment,Small
+MER0331,Merchant_0331,Education,Medium
+MER0332,Merchant_0332,Food & Dining,Large
+MER0333,Merchant_0333,Services,Small
+MER0334,Merchant_0334,Retail,Medium
+MER0335,Merchant_0335,Entertainment,Small
+MER0336,Merchant_0336,Healthcare,Medium
+MER0337,Merchant_0337,Retail,Small
+MER0338,Merchant_0338,Retail,Medium
+MER0339,Merchant_0339,Education,Small
+MER0340,Merchant_0340,Travel,Small
+MER0341,Merchant_0341,Utilities,Medium
+MER0342,Merchant_0342,Grocery,Medium
+MER0343,Merchant_0343,Travel,Large
+MER0344,Merchant_0344,Utilities,Medium
+MER0345,Merchant_0345,Utilities,Medium
+MER0346,Merchant_0346,Healthcare,Medium
+MER0347,Merchant_0347,Food & Dining,Small
+MER0348,Merchant_0348,Travel,Small
+MER0349,Merchant_0349,Food & Dining,Small
+MER0350,Merchant_0350,Grocery,Small
+MER0351,Merchant_0351,Travel,Small
+MER0352,Merchant_0352,E-commerce,Large
+MER0353,Merchant_0353,Education,Large
+MER0354,Merchant_0354,Travel,Large
+MER0355,Merchant_0355,Retail,Enterprise
+MER0356,Merchant_0356,Entertainment,Small
+MER0357,Merchant_0357,Grocery,Small
+MER0358,Merchant_0358,Education,Medium
+MER0359,Merchant_0359,Services,Large
+MER0360,Merchant_0360,Retail,Medium
+MER0361,Merchant_0361,Entertainment,Medium
+MER0362,Merchant_0362,Travel,Small
+MER0363,Merchant_0363,Food & Dining,Small
+MER0364,Merchant_0364,Services,Small
+MER0365,Merchant_0365,Entertainment,Small
+MER0366,Merchant_0366,Food & Dining,Large
+MER0367,Merchant_0367,Utilities,Small
+MER0368,Merchant_0368,Travel,Enterprise
+MER0369,Merchant_0369,Food & Dining,Small
+MER0370,Merchant_0370,Entertainment,Large
+MER0371,Merchant_0371,Entertainment,Medium
+MER0372,Merchant_0372,E-commerce,Medium
+MER0373,Merchant_0373,Services,Small
+MER0374,Merchant_0374,Entertainment,Medium
+MER0375,Merchant_0375,Education,Large
+MER0376,Merchant_0376,Food & Dining,Small
+MER0377,Merchant_0377,Travel,Small
+MER0378,Merchant_0378,Utilities,Small
+MER0379,Merchant_0379,Education,Small
+MER0380,Merchant_0380,E-commerce,Small
+MER0381,Merchant_0381,Utilities,Medium
+MER0382,Merchant_0382,Utilities,Small
+MER0383,Merchant_0383,Services,Medium
+MER0384,Merchant_0384,Services,Large
+MER0385,Merchant_0385,Entertainment,Medium
+MER0386,Merchant_0386,Services,Small
+MER0387,Merchant_0387,Retail,Medium
+MER0388,Merchant_0388,Healthcare,Small
+MER0389,Merchant_0389,Entertainment,Small
+MER0390,Merchant_0390,Services,Small
+MER0391,Merchant_0391,E-commerce,Large
+MER0392,Merchant_0392,Travel,Medium
+MER0393,Merchant_0393,Utilities,Small
+MER0394,Merchant_0394,Retail,Medium
+MER0395,Merchant_0395,Travel,Small
+MER0396,Merchant_0396,Travel,Enterprise
+MER0397,Merchant_0397,Grocery,Enterprise
+MER0398,Merchant_0398,Food & Dining,Small
+MER0399,Merchant_0399,Food & Dining,Small
+MER0400,Merchant_0400,E-commerce,Medium
+MER0401,Merchant_0401,Entertainment,Medium
+MER0402,Merchant_0402,Grocery,Small
+MER0403,Merchant_0403,E-commerce,Medium
+MER0404,Merchant_0404,Utilities,Small
+MER0405,Merchant_0405,Education,Medium
+MER0406,Merchant_0406,Education,Small
+MER0407,Merchant_0407,Grocery,Medium
+MER0408,Merchant_0408,Food & Dining,Medium
+MER0409,Merchant_0409,Education,Medium
+MER0410,Merchant_0410,Food & Dining,Medium
+MER0411,Merchant_0411,Entertainment,Medium
+MER0412,Merchant_0412,Healthcare,Small
+MER0413,Merchant_0413,Travel,Small
+MER0414,Merchant_0414,Utilities,Small
+MER0415,Merchant_0415,Grocery,Small
+MER0416,Merchant_0416,Food & Dining,Medium
+MER0417,Merchant_0417,Services,Small
+MER0418,Merchant_0418,Travel,Small
+MER0419,Merchant_0419,Services,Large
+MER0420,Merchant_0420,Education,Medium
+MER0421,Merchant_0421,Healthcare,Medium
+MER0422,Merchant_0422,Healthcare,Small
+MER0423,Merchant_0423,Entertainment,Small
+MER0424,Merchant_0424,Utilities,Medium
+MER0425,Merchant_0425,Education,Large
+MER0426,Merchant_0426,Food & Dining,Small
+MER0427,Merchant_0427,Travel,Medium
+MER0428,Merchant_0428,Retail,Large
+MER0429,Merchant_0429,Healthcare,Medium
+MER0430,Merchant_0430,Services,Small
+MER0431,Merchant_0431,Utilities,Medium
+MER0432,Merchant_0432,Food & Dining,Large
+MER0433,Merchant_0433,Services,Medium
+MER0434,Merchant_0434,Travel,Large
+MER0435,Merchant_0435,Travel,Medium
+MER0436,Merchant_0436,Education,Large
+MER0437,Merchant_0437,E-commerce,Large
+MER0438,Merchant_0438,Services,Medium
+MER0439,Merchant_0439,Food & Dining,Medium
+MER0440,Merchant_0440,Travel,Medium
+MER0441,Merchant_0441,Education,Medium
+MER0442,Merchant_0442,Education,Large
+MER0443,Merchant_0443,Entertainment,Small
+MER0444,Merchant_0444,Retail,Medium
+MER0445,Merchant_0445,E-commerce,Medium
+MER0446,Merchant_0446,Grocery,Medium
+MER0447,Merchant_0447,Travel,Medium
+MER0448,Merchant_0448,Food & Dining,Small
+MER0449,Merchant_0449,Food & Dining,Small
+MER0450,Merchant_0450,Healthcare,Large
+MER0451,Merchant_0451,Entertainment,Large
+MER0452,Merchant_0452,Entertainment,Small
+MER0453,Merchant_0453,Entertainment,Medium
+MER0454,Merchant_0454,Food & Dining,Large
+MER0455,Merchant_0455,E-commerce,Medium
+MER0456,Merchant_0456,Education,Medium
+MER0457,Merchant_0457,Services,Small
+MER0458,Merchant_0458,Utilities,Medium
+MER0459,Merchant_0459,Retail,Medium
+MER0460,Merchant_0460,Travel,Medium
+MER0461,Merchant_0461,Entertainment,Medium
+MER0462,Merchant_0462,E-commerce,Small
+MER0463,Merchant_0463,Food & Dining,Enterprise
+MER0464,Merchant_0464,Education,Medium
+MER0465,Merchant_0465,Utilities,Medium
+MER0466,Merchant_0466,Food & Dining,Large
+MER0467,Merchant_0467,Education,Large
+MER0468,Merchant_0468,E-commerce,Large
+MER0469,Merchant_0469,E-commerce,Medium
+MER0470,Merchant_0470,Education,Medium
+MER0471,Merchant_0471,Healthcare,Small
+MER0472,Merchant_0472,Retail,Small
+MER0473,Merchant_0473,Food & Dining,Medium
+MER0474,Merchant_0474,Food & Dining,Medium
+MER0475,Merchant_0475,Travel,Small
+MER0476,Merchant_0476,Healthcare,Large
+MER0477,Merchant_0477,Utilities,Medium
+MER0478,Merchant_0478,E-commerce,Medium
+MER0479,Merchant_0479,Entertainment,Small
+MER0480,Merchant_0480,Services,Small
+MER0481,Merchant_0481,Education,Large
+MER0482,Merchant_0482,Food & Dining,Small
+MER0483,Merchant_0483,E-commerce,Medium
+MER0484,Merchant_0484,Services,Medium
+MER0485,Merchant_0485,Retail,Medium
+MER0486,Merchant_0486,E-commerce,Medium
+MER0487,Merchant_0487,Food & Dining,Small
+MER0488,Merchant_0488,E-commerce,Small
+MER0489,Merchant_0489,Services,Medium
+MER0490,Merchant_0490,Retail,Medium
+MER0491,Merchant_0491,Utilities,Small
+MER0492,Merchant_0492,Education,Small
+MER0493,Merchant_0493,E-commerce,Small
+MER0494,Merchant_0494,Travel,Medium
+MER0495,Merchant_0495,Healthcare,Small
+MER0496,Merchant_0496,Education,Small
+MER0497,Merchant_0497,E-commerce,Medium
+MER0498,Merchant_0498,Education,Small
+MER0499,Merchant_0499,E-commerce,Medium
+MER0500,Merchant_0500,Grocery,Small
+MER0501,Merchant_0501,Travel,Large
+MER0502,Merchant_0502,Food & Dining,Small
+MER0503,Merchant_0503,Travel,Small
+MER0504,Merchant_0504,Retail,Large
+MER0505,Merchant_0505,Grocery,Small
+MER0506,Merchant_0506,Travel,Medium
+MER0507,Merchant_0507,Services,Small
+MER0508,Merchant_0508,Travel,Small
+MER0509,Merchant_0509,Healthcare,Medium
+MER0510,Merchant_0510,E-commerce,Large
+MER0511,Merchant_0511,Retail,Medium
+MER0512,Merchant_0512,Utilities,Medium
+MER0513,Merchant_0513,Food & Dining,Medium
+MER0514,Merchant_0514,E-commerce,Small
+MER0515,Merchant_0515,Utilities,Medium
+MER0516,Merchant_0516,Utilities,Small
+MER0517,Merchant_0517,E-commerce,Small
+MER0518,Merchant_0518,Travel,Small
+MER0519,Merchant_0519,Healthcare,Large
+MER0520,Merchant_0520,Entertainment,Small
+MER0521,Merchant_0521,Grocery,Medium
+MER0522,Merchant_0522,Entertainment,Small
+MER0523,Merchant_0523,Food & Dining,Small
+MER0524,Merchant_0524,Education,Medium
+MER0525,Merchant_0525,Education,Medium
+MER0526,Merchant_0526,Education,Medium
+MER0527,Merchant_0527,Services,Small
+MER0528,Merchant_0528,Grocery,Large
+MER0529,Merchant_0529,E-commerce,Small
+MER0530,Merchant_0530,Utilities,Medium
+MER0531,Merchant_0531,Entertainment,Medium
+MER0532,Merchant_0532,E-commerce,Medium
+MER0533,Merchant_0533,Travel,Large
+MER0534,Merchant_0534,Grocery,Medium
+MER0535,Merchant_0535,Travel,Small
+MER0536,Merchant_0536,Services,Small
+MER0537,Merchant_0537,Food & Dining,Small
+MER0538,Merchant_0538,Grocery,Small
+MER0539,Merchant_0539,Grocery,Large
+MER0540,Merchant_0540,Utilities,Small
+MER0541,Merchant_0541,Healthcare,Medium
+MER0542,Merchant_0542,Education,Medium
+MER0543,Merchant_0543,Utilities,Large
+MER0544,Merchant_0544,Entertainment,Medium
+MER0545,Merchant_0545,Entertainment,Medium
+MER0546,Merchant_0546,Entertainment,Small
+MER0547,Merchant_0547,Entertainment,Medium
+MER0548,Merchant_0548,Utilities,Small
+MER0549,Merchant_0549,Retail,Large
+MER0550,Merchant_0550,Food & Dining,Small
+MER0551,Merchant_0551,Retail,Small
+MER0552,Merchant_0552,Utilities,Medium
+MER0553,Merchant_0553,Grocery,Medium
+MER0554,Merchant_0554,Entertainment,Medium
+MER0555,Merchant_0555,Education,Small
+MER0556,Merchant_0556,Retail,Small
+MER0557,Merchant_0557,Education,Small
+MER0558,Merchant_0558,E-commerce,Medium
+MER0559,Merchant_0559,Food & Dining,Medium
+MER0560,Merchant_0560,Entertainment,Small
+MER0561,Merchant_0561,Travel,Medium
+MER0562,Merchant_0562,Retail,Small
+MER0563,Merchant_0563,Entertainment,Large
+MER0564,Merchant_0564,Retail,Small
+MER0565,Merchant_0565,Travel,Medium
+MER0566,Merchant_0566,E-commerce,Medium
+MER0567,Merchant_0567,Healthcare,Small
+MER0568,Merchant_0568,Entertainment,Small
+MER0569,Merchant_0569,Entertainment,Small
+MER0570,Merchant_0570,Food & Dining,Small
+MER0571,Merchant_0571,Utilities,Medium
+MER0572,Merchant_0572,Retail,Small
+MER0573,Merchant_0573,Travel,Small
+MER0574,Merchant_0574,Services,Small
+MER0575,Merchant_0575,Travel,Small
+MER0576,Merchant_0576,Grocery,Small
+MER0577,Merchant_0577,Education,Small
+MER0578,Merchant_0578,Retail,Medium
+MER0579,Merchant_0579,Food & Dining,Medium
+MER0580,Merchant_0580,E-commerce,Large
+MER0581,Merchant_0581,Services,Small
+MER0582,Merchant_0582,Education,Small
+MER0583,Merchant_0583,Grocery,Small
+MER0584,Merchant_0584,E-commerce,Medium
+MER0585,Merchant_0585,Grocery,Medium
+MER0586,Merchant_0586,Entertainment,Small
+MER0587,Merchant_0587,Retail,Medium
+MER0588,Merchant_0588,Healthcare,Medium
+MER0589,Merchant_0589,Entertainment,Enterprise
+MER0590,Merchant_0590,Food & Dining,Small
+MER0591,Merchant_0591,Travel,Small
+MER0592,Merchant_0592,Healthcare,Small
+MER0593,Merchant_0593,Food & Dining,Small
+MER0594,Merchant_0594,Education,Large
+MER0595,Merchant_0595,Food & Dining,Small
+MER0596,Merchant_0596,Utilities,Medium
+MER0597,Merchant_0597,Entertainment,Small
+MER0598,Merchant_0598,Retail,Small
+MER0599,Merchant_0599,Grocery,Small
+MER0600,Merchant_0600,Travel,Small
+MER0601,Merchant_0601,Healthcare,Medium
+MER0602,Merchant_0602,Services,Enterprise
+MER0603,Merchant_0603,Travel,Medium
+MER0604,Merchant_0604,Travel,Medium
+MER0605,Merchant_0605,E-commerce,Small
+MER0606,Merchant_0606,Travel,Large
+MER0607,Merchant_0607,Travel,Small
+MER0608,Merchant_0608,Travel,Large
+MER0609,Merchant_0609,Grocery,Medium
+MER0610,Merchant_0610,Utilities,Small
+MER0611,Merchant_0611,Travel,Medium
+MER0612,Merchant_0612,Healthcare,Enterprise
+MER0613,Merchant_0613,Utilities,Small
+MER0614,Merchant_0614,Travel,Small
+MER0615,Merchant_0615,Healthcare,Small
+MER0616,Merchant_0616,Healthcare,Medium
+MER0617,Merchant_0617,Education,Small
+MER0618,Merchant_0618,Entertainment,Medium
+MER0619,Merchant_0619,Food & Dining,Large
+MER0620,Merchant_0620,Services,Large
+MER0621,Merchant_0621,Food & Dining,Small
+MER0622,Merchant_0622,E-commerce,Medium
+MER0623,Merchant_0623,Retail,Small
+MER0624,Merchant_0624,Services,Medium
+MER0625,Merchant_0625,Utilities,Large
+MER0626,Merchant_0626,Services,Medium
+MER0627,Merchant_0627,Food & Dining,Large
+MER0628,Merchant_0628,Healthcare,Large
+MER0629,Merchant_0629,Food & Dining,Small
+MER0630,Merchant_0630,Services,Medium
+MER0631,Merchant_0631,Retail,Small
+MER0632,Merchant_0632,Services,Small
+MER0633,Merchant_0633,Healthcare,Small
+MER0634,Merchant_0634,Utilities,Large
+MER0635,Merchant_0635,Healthcare,Small
+MER0636,Merchant_0636,Travel,Medium
+MER0637,Merchant_0637,E-commerce,Medium
+MER0638,Merchant_0638,Retail,Medium
+MER0639,Merchant_0639,Healthcare,Medium
+MER0640,Merchant_0640,Retail,Small
+MER0641,Merchant_0641,Education,Medium
+MER0642,Merchant_0642,Services,Medium
+MER0643,Merchant_0643,E-commerce,Medium
+MER0644,Merchant_0644,Grocery,Small
+MER0645,Merchant_0645,Travel,Small
+MER0646,Merchant_0646,Utilities,Large
+MER0647,Merchant_0647,Food & Dining,Small
+MER0648,Merchant_0648,Entertainment,Small
+MER0649,Merchant_0649,Entertainment,Small
+MER0650,Merchant_0650,Grocery,Small
+MER0651,Merchant_0651,Services,Small
+MER0652,Merchant_0652,Travel,Medium
+MER0653,Merchant_0653,Retail,Large
+MER0654,Merchant_0654,Utilities,Small
+MER0655,Merchant_0655,Services,Small
+MER0656,Merchant_0656,Services,Medium
+MER0657,Merchant_0657,E-commerce,Small
+MER0658,Merchant_0658,Retail,Large
+MER0659,Merchant_0659,Entertainment,Small
+MER0660,Merchant_0660,Retail,Medium
+MER0661,Merchant_0661,Retail,Medium
+MER0662,Merchant_0662,E-commerce,Medium
+MER0663,Merchant_0663,Services,Medium
+MER0664,Merchant_0664,Services,Small
+MER0665,Merchant_0665,Education,Small
+MER0666,Merchant_0666,Retail,Large
+MER0667,Merchant_0667,Entertainment,Large
+MER0668,Merchant_0668,Food & Dining,Small
+MER0669,Merchant_0669,Services,Large
+MER0670,Merchant_0670,Travel,Medium
+MER0671,Merchant_0671,Travel,Medium
+MER0672,Merchant_0672,Utilities,Small
+MER0673,Merchant_0673,Retail,Medium
+MER0674,Merchant_0674,Utilities,Small
+MER0675,Merchant_0675,E-commerce,Medium
+MER0676,Merchant_0676,Entertainment,Small
+MER0677,Merchant_0677,Retail,Medium
+MER0678,Merchant_0678,Entertainment,Small
+MER0679,Merchant_0679,Education,Small
+MER0680,Merchant_0680,Healthcare,Small
+MER0681,Merchant_0681,Healthcare,Small
+MER0682,Merchant_0682,Retail,Medium
+MER0683,Merchant_0683,Education,Small
+MER0684,Merchant_0684,Travel,Enterprise
+MER0685,Merchant_0685,Retail,Medium
+MER0686,Merchant_0686,Utilities,Medium
+MER0687,Merchant_0687,Utilities,Small
+MER0688,Merchant_0688,Travel,Small
+MER0689,Merchant_0689,Entertainment,Small
+MER0690,Merchant_0690,Food & Dining,Medium
+MER0691,Merchant_0691,Utilities,Small
+MER0692,Merchant_0692,Entertainment,Medium
+MER0693,Merchant_0693,Healthcare,Small
+MER0694,Merchant_0694,Healthcare,Enterprise
+MER0695,Merchant_0695,E-commerce,Small
+MER0696,Merchant_0696,Education,Small
+MER0697,Merchant_0697,Education,Medium
+MER0698,Merchant_0698,Grocery,Large
+MER0699,Merchant_0699,Healthcare,Medium
+MER0700,Merchant_0700,Travel,Small
+MER0701,Merchant_0701,Services,Medium
+MER0702,Merchant_0702,Food & Dining,Large
+MER0703,Merchant_0703,E-commerce,Small
+MER0704,Merchant_0704,Entertainment,Small
+MER0705,Merchant_0705,Travel,Large
+MER0706,Merchant_0706,E-commerce,Large
+MER0707,Merchant_0707,E-commerce,Medium
+MER0708,Merchant_0708,Entertainment,Enterprise
+MER0709,Merchant_0709,Healthcare,Small
+MER0710,Merchant_0710,E-commerce,Medium
+MER0711,Merchant_0711,Entertainment,Medium
+MER0712,Merchant_0712,E-commerce,Medium
+MER0713,Merchant_0713,Food & Dining,Medium
+MER0714,Merchant_0714,E-commerce,Large
+MER0715,Merchant_0715,Retail,Small
+MER0716,Merchant_0716,Healthcare,Small
+MER0717,Merchant_0717,Grocery,Small
+MER0718,Merchant_0718,Retail,Medium
+MER0719,Merchant_0719,Food & Dining,Small
+MER0720,Merchant_0720,Entertainment,Large
+MER0721,Merchant_0721,Food & Dining,Small
+MER0722,Merchant_0722,Services,Small
+MER0723,Merchant_0723,Services,Medium
+MER0724,Merchant_0724,E-commerce,Medium
+MER0725,Merchant_0725,Food & Dining,Small
+MER0726,Merchant_0726,Education,Medium
+MER0727,Merchant_0727,Grocery,Small
+MER0728,Merchant_0728,Utilities,Small
+MER0729,Merchant_0729,Services,Small
+MER0730,Merchant_0730,Healthcare,Medium
+MER0731,Merchant_0731,Grocery,Small
+MER0732,Merchant_0732,Entertainment,Large
+MER0733,Merchant_0733,Food & Dining,Medium
+MER0734,Merchant_0734,Healthcare,Small
+MER0735,Merchant_0735,E-commerce,Small
+MER0736,Merchant_0736,Retail,Small
+MER0737,Merchant_0737,Grocery,Medium
+MER0738,Merchant_0738,Healthcare,Medium
+MER0739,Merchant_0739,Travel,Medium
+MER0740,Merchant_0740,Retail,Small
+MER0741,Merchant_0741,Entertainment,Small
+MER0742,Merchant_0742,E-commerce,Small
+MER0743,Merchant_0743,Retail,Small
+MER0744,Merchant_0744,Utilities,Small
+MER0745,Merchant_0745,E-commerce,Large
+MER0746,Merchant_0746,Grocery,Medium
+MER0747,Merchant_0747,Retail,Medium
+MER0748,Merchant_0748,Education,Small
+MER0749,Merchant_0749,Entertainment,Small
+MER0750,Merchant_0750,Grocery,Small
+MER0751,Merchant_0751,Healthcare,Small
+MER0752,Merchant_0752,Healthcare,Medium
+MER0753,Merchant_0753,Entertainment,Small
+MER0754,Merchant_0754,Retail,Large
+MER0755,Merchant_0755,Services,Enterprise
+MER0756,Merchant_0756,Utilities,Small
+MER0757,Merchant_0757,Healthcare,Medium
+MER0758,Merchant_0758,Food & Dining,Medium
+MER0759,Merchant_0759,E-commerce,Small
+MER0760,Merchant_0760,Food & Dining,Large
+MER0761,Merchant_0761,Entertainment,Small
+MER0762,Merchant_0762,Services,Medium
+MER0763,Merchant_0763,Entertainment,Small
+MER0764,Merchant_0764,Services,Small
+MER0765,Merchant_0765,Utilities,Medium
+MER0766,Merchant_0766,Services,Large
+MER0767,Merchant_0767,Utilities,Small
+MER0768,Merchant_0768,Travel,Small
+MER0769,Merchant_0769,Retail,Small
+MER0770,Merchant_0770,Travel,Small
+MER0771,Merchant_0771,Education,Medium
+MER0772,Merchant_0772,Services,Medium
+MER0773,Merchant_0773,Education,Large
+MER0774,Merchant_0774,Education,Medium
+MER0775,Merchant_0775,Entertainment,Large
+MER0776,Merchant_0776,Retail,Medium
+MER0777,Merchant_0777,Services,Large
+MER0778,Merchant_0778,Retail,Small
+MER0779,Merchant_0779,Entertainment,Medium
+MER0780,Merchant_0780,Travel,Enterprise
+MER0781,Merchant_0781,Education,Medium
+MER0782,Merchant_0782,Education,Large
+MER0783,Merchant_0783,E-commerce,Small
+MER0784,Merchant_0784,Grocery,Large
+MER0785,Merchant_0785,Travel,Medium
+MER0786,Merchant_0786,Travel,Small
+MER0787,Merchant_0787,Entertainment,Small
+MER0788,Merchant_0788,Retail,Small
+MER0789,Merchant_0789,Healthcare,Large
+MER0790,Merchant_0790,Travel,Medium
+MER0791,Merchant_0791,Grocery,Large
+MER0792,Merchant_0792,Healthcare,Small
+MER0793,Merchant_0793,E-commerce,Large
+MER0794,Merchant_0794,Utilities,Medium
+MER0795,Merchant_0795,E-commerce,Small
+MER0796,Merchant_0796,Entertainment,Small
+MER0797,Merchant_0797,Services,Enterprise
+MER0798,Merchant_0798,Entertainment,Small
+MER0799,Merchant_0799,Grocery,Small
+MER0800,Merchant_0800,Food & Dining,Small
+MER0801,Merchant_0801,Services,Small
+MER0802,Merchant_0802,Utilities,Large
+MER0803,Merchant_0803,Grocery,Medium
+MER0804,Merchant_0804,Entertainment,Medium
+MER0805,Merchant_0805,Education,Large
+MER0806,Merchant_0806,Services,Medium
+MER0807,Merchant_0807,Travel,Large
+MER0808,Merchant_0808,Travel,Small
+MER0809,Merchant_0809,Food & Dining,Enterprise
+MER0810,Merchant_0810,Education,Small
+MER0811,Merchant_0811,Food & Dining,Medium
+MER0812,Merchant_0812,E-commerce,Medium
+MER0813,Merchant_0813,Travel,Small
+MER0814,Merchant_0814,Travel,Small
+MER0815,Merchant_0815,Grocery,Small
+MER0816,Merchant_0816,Grocery,Small
+MER0817,Merchant_0817,Entertainment,Medium
+MER0818,Merchant_0818,Healthcare,Enterprise
+MER0819,Merchant_0819,Food & Dining,Medium
+MER0820,Merchant_0820,Education,Medium
+MER0821,Merchant_0821,Education,Small
+MER0822,Merchant_0822,Retail,Small
+MER0823,Merchant_0823,Food & Dining,Medium
+MER0824,Merchant_0824,Healthcare,Enterprise
+MER0825,Merchant_0825,Entertainment,Large
+MER0826,Merchant_0826,Travel,Small
+MER0827,Merchant_0827,Utilities,Medium
+MER0828,Merchant_0828,Food & Dining,Medium
+MER0829,Merchant_0829,Education,Medium
+MER0830,Merchant_0830,Education,Medium
+MER0831,Merchant_0831,E-commerce,Medium
+MER0832,Merchant_0832,Travel,Small
+MER0833,Merchant_0833,Entertainment,Large
+MER0834,Merchant_0834,Services,Small
+MER0835,Merchant_0835,Retail,Medium
+MER0836,Merchant_0836,Retail,Large
+MER0837,Merchant_0837,Grocery,Medium
+MER0838,Merchant_0838,Travel,Small
+MER0839,Merchant_0839,Education,Small
+MER0840,Merchant_0840,Travel,Medium
+MER0841,Merchant_0841,Education,Small
+MER0842,Merchant_0842,Grocery,Small
+MER0843,Merchant_0843,E-commerce,Small
+MER0844,Merchant_0844,Food & Dining,Large
+MER0845,Merchant_0845,Entertainment,Small
+MER0846,Merchant_0846,Retail,Medium
+MER0847,Merchant_0847,Utilities,Small
+MER0848,Merchant_0848,Travel,Medium
+MER0849,Merchant_0849,Healthcare,Small
+MER0850,Merchant_0850,Entertainment,Medium
+MER0851,Merchant_0851,Food & Dining,Medium
+MER0852,Merchant_0852,E-commerce,Small
+MER0853,Merchant_0853,E-commerce,Large
+MER0854,Merchant_0854,Utilities,Large
+MER0855,Merchant_0855,Retail,Small
+MER0856,Merchant_0856,Grocery,Medium
+MER0857,Merchant_0857,Grocery,Medium
+MER0858,Merchant_0858,Food & Dining,Small
+MER0859,Merchant_0859,Grocery,Small
+MER0860,Merchant_0860,Retail,Large
+MER0861,Merchant_0861,Healthcare,Medium
+MER0862,Merchant_0862,Education,Large
+MER0863,Merchant_0863,Entertainment,Medium
+MER0864,Merchant_0864,Services,Small
+MER0865,Merchant_0865,Entertainment,Small
+MER0866,Merchant_0866,Grocery,Medium
+MER0867,Merchant_0867,Entertainment,Medium
+MER0868,Merchant_0868,Grocery,Small
+MER0869,Merchant_0869,Grocery,Medium
+MER0870,Merchant_0870,Education,Large
+MER0871,Merchant_0871,Education,Medium
+MER0872,Merchant_0872,Utilities,Small
+MER0873,Merchant_0873,Healthcare,Small
+MER0874,Merchant_0874,Healthcare,Large
+MER0875,Merchant_0875,Services,Large
+MER0876,Merchant_0876,Retail,Small
+MER0877,Merchant_0877,Travel,Large
+MER0878,Merchant_0878,Retail,Small
+MER0879,Merchant_0879,Services,Small
+MER0880,Merchant_0880,Healthcare,Small
+MER0881,Merchant_0881,Utilities,Small
+MER0882,Merchant_0882,Retail,Large
+MER0883,Merchant_0883,Food & Dining,Medium
+MER0884,Merchant_0884,Retail,Small
+MER0885,Merchant_0885,Education,Large
+MER0886,Merchant_0886,Services,Large
+MER0887,Merchant_0887,Retail,Small
+MER0888,Merchant_0888,Services,Medium
+MER0889,Merchant_0889,Food & Dining,Medium
+MER0890,Merchant_0890,Healthcare,Medium
+MER0891,Merchant_0891,Healthcare,Medium
+MER0892,Merchant_0892,Grocery,Small
+MER0893,Merchant_0893,Food & Dining,Small
+MER0894,Merchant_0894,E-commerce,Large
+MER0895,Merchant_0895,Retail,Large
+MER0896,Merchant_0896,Retail,Small
+MER0897,Merchant_0897,Grocery,Small
+MER0898,Merchant_0898,Utilities,Large
+MER0899,Merchant_0899,Education,Small
+MER0900,Merchant_0900,Travel,Small
+MER0901,Merchant_0901,Entertainment,Small
+MER0902,Merchant_0902,Education,Small
+MER0903,Merchant_0903,E-commerce,Small
+MER0904,Merchant_0904,Education,Medium
+MER0905,Merchant_0905,Grocery,Small
+MER0906,Merchant_0906,Food & Dining,Enterprise
+MER0907,Merchant_0907,E-commerce,Large
+MER0908,Merchant_0908,Entertainment,Large
+MER0909,Merchant_0909,Education,Large
+MER0910,Merchant_0910,Healthcare,Medium
+MER0911,Merchant_0911,Food & Dining,Small
+MER0912,Merchant_0912,Travel,Small
+MER0913,Merchant_0913,Retail,Small
+MER0914,Merchant_0914,Healthcare,Small
+MER0915,Merchant_0915,Entertainment,Medium
+MER0916,Merchant_0916,Grocery,Enterprise
+MER0917,Merchant_0917,Utilities,Small
+MER0918,Merchant_0918,Services,Medium
+MER0919,Merchant_0919,Education,Medium
+MER0920,Merchant_0920,Services,Small
+MER0921,Merchant_0921,Food & Dining,Large
+MER0922,Merchant_0922,Grocery,Medium
+MER0923,Merchant_0923,Utilities,Small
+MER0924,Merchant_0924,Travel,Large
+MER0925,Merchant_0925,Entertainment,Medium
+MER0926,Merchant_0926,Entertainment,Medium
+MER0927,Merchant_0927,Services,Medium
+MER0928,Merchant_0928,E-commerce,Medium
+MER0929,Merchant_0929,Services,Small
+MER0930,Merchant_0930,Utilities,Large
+MER0931,Merchant_0931,Utilities,Large
+MER0932,Merchant_0932,Entertainment,Medium
+MER0933,Merchant_0933,Services,Medium
+MER0934,Merchant_0934,Healthcare,Large
+MER0935,Merchant_0935,E-commerce,Small
+MER0936,Merchant_0936,Entertainment,Enterprise
+MER0937,Merchant_0937,Food & Dining,Medium
+MER0938,Merchant_0938,Education,Small
+MER0939,Merchant_0939,Food & Dining,Medium
+MER0940,Merchant_0940,Education,Medium
+MER0941,Merchant_0941,Utilities,Small
+MER0942,Merchant_0942,E-commerce,Medium
+MER0943,Merchant_0943,Grocery,Medium
+MER0944,Merchant_0944,Education,Medium
+MER0945,Merchant_0945,Food & Dining,Small
+MER0946,Merchant_0946,Entertainment,Medium
+MER0947,Merchant_0947,Travel,Medium
+MER0948,Merchant_0948,Healthcare,Enterprise
+MER0949,Merchant_0949,Services,Large
+MER0950,Merchant_0950,Education,Large
+MER0951,Merchant_0951,Utilities,Small
+MER0952,Merchant_0952,Grocery,Large
+MER0953,Merchant_0953,Travel,Small
+MER0954,Merchant_0954,Travel,Small
+MER0955,Merchant_0955,Education,Small
+MER0956,Merchant_0956,Travel,Large
+MER0957,Merchant_0957,Healthcare,Small
+MER0958,Merchant_0958,Healthcare,Small
+MER0959,Merchant_0959,Utilities,Small
+MER0960,Merchant_0960,Travel,Medium
+MER0961,Merchant_0961,Education,Large
+MER0962,Merchant_0962,Entertainment,Small
+MER0963,Merchant_0963,Utilities,Medium
+MER0964,Merchant_0964,E-commerce,Small
+MER0965,Merchant_0965,Services,Small
+MER0966,Merchant_0966,Utilities,Small
+MER0967,Merchant_0967,Travel,Small
+MER0968,Merchant_0968,Travel,Medium
+MER0969,Merchant_0969,Services,Small
+MER0970,Merchant_0970,Healthcare,Large
+MER0971,Merchant_0971,Food & Dining,Enterprise
+MER0972,Merchant_0972,Grocery,Small
+MER0973,Merchant_0973,Grocery,Small
+MER0974,Merchant_0974,E-commerce,Medium
+MER0975,Merchant_0975,Utilities,Small
+MER0976,Merchant_0976,Education,Small
+MER0977,Merchant_0977,E-commerce,Small
+MER0978,Merchant_0978,Healthcare,Large
+MER0979,Merchant_0979,Services,Medium
+MER0980,Merchant_0980,Retail,Small
+MER0981,Merchant_0981,Utilities,Small
+MER0982,Merchant_0982,Food & Dining,Small
+MER0983,Merchant_0983,E-commerce,Small
+MER0984,Merchant_0984,Retail,Medium
+MER0985,Merchant_0985,Food & Dining,Large
+MER0986,Merchant_0986,Retail,Small
+MER0987,Merchant_0987,Retail,Small
+MER0988,Merchant_0988,Education,Small
+MER0989,Merchant_0989,Travel,Small
+MER0990,Merchant_0990,Services,Large
+MER0991,Merchant_0991,Travel,Small
+MER0992,Merchant_0992,Healthcare,Small
+MER0993,Merchant_0993,Food & Dining,Small
+MER0994,Merchant_0994,Grocery,Medium
+MER0995,Merchant_0995,Services,Large
+MER0996,Merchant_0996,Utilities,Small
+MER0997,Merchant_0997,Entertainment,Small
+MER0998,Merchant_0998,Services,Small
+MER0999,Merchant_0999,Travel,Medium
+MER1000,Merchant_1000,Grocery,Medium

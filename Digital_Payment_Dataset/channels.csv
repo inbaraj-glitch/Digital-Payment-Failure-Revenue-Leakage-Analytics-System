@@ -1,0 +1,7 @@
+channel_id,channel_name,channel_type
+CH01,Mobile App,Digital
+CH02,Web,Digital
+CH03,POS,Physical
+CH04,QR,Digital
+CH05,API,Digital
+CH06,USSD,Digital

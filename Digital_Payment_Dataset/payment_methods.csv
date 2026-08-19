@@ -1,0 +1,9 @@
+payment_method_id,payment_method_name,payment_method_type
+PM01,UPI,Digital
+PM02,Credit Card,Card
+PM03,Debit Card,Card
+PM04,Net Banking,Bank
+PM05,Wallet,Digital
+PM06,QR Code,Digital
+PM07,BNPL,Credit
+PM08,Cash on Delivery,Offline
