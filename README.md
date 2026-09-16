@@ -72,9 +72,6 @@ Statistical Analysis
 Power BI
 (Dashboard & Visualization)
         ↓
-AI-Assisted Analytics
-(Pattern & Anomaly Detection)
-        ↓
 Business Insights & Recommendations
 ```
 
@@ -279,23 +276,6 @@ Users can filter the dashboard by:
 
 ---
 
-## 🤖 AI-Assisted Analytics
-
-AI can be used as an additional analytical layer to:
-
-* Identify unusual failure patterns
-* Detect anomalies
-* Explain important trends
-* Generate SQL queries
-* Assist with DAX formulas
-* Summarize Power BI findings
-* Identify high-risk payment segments
-* Generate business recommendations
-
-AI-generated insights should be validated against the underlying transaction data before being used for business decisions.
-
----
-
 ## 🗄️ MySQL Analysis
 
 MySQL will be used to store and analyze the structured transaction dataset.
@@ -405,9 +385,6 @@ Digital-Payment-Failure-Revenue-Leakage/
 ├── powerbi/
 │   └── payment_failure_dashboard.pbix
 │
-├── ai_analysis/
-│   └── ai_insights.md
-│
 └── documentation/
     └── project_report.pdf
 ```
@@ -440,11 +417,7 @@ Perform descriptive statistics, trend analysis, correlation analysis, and anomal
 
 Create an interactive dashboard containing KPIs, trends, comparisons, and revenue-at-risk analysis.
 
-### Step 7 — AI-Assisted Analysis
-
-Use AI tools to support anomaly detection, pattern identification, SQL/DAX assistance, and insight generation.
-
-### Step 8 — Business Recommendations
+### Step 7 — Business Recommendations
 
 Convert analytical findings into actionable recommendations for improving payment performance and reducing revenue leakage.
 
@@ -476,7 +449,6 @@ The project demonstrates how data analytics can be used to identify payment fail
 * Trend Analysis
 * Revenue Analysis
 * Anomaly Detection
-* AI-Assisted Analytics
 * Business Intelligence
 * Business Problem Solving
 
@@ -502,4 +474,4 @@ Possible future improvements include:
 
 The **Digital Payment Failure & Revenue Leakage Analytics System** provides an end-to-end framework for transforming payment transaction data into actionable business intelligence.
 
-By combining **Excel, MySQL, statistical analysis, Power BI, and AI-assisted analytics**, the project helps organizations understand payment failures, identify revenue-at-risk segments, detect operational issues, and make data-driven decisions to improve payment success and reduce potential revenue leakage.
+By combining **Excel, MySQL, statistical analysis, Power BI**, the project helps organizations understand payment failures, identify revenue-at-risk segments, detect operational issues, and make data-driven decisions to improve payment success and reduce potential revenue leakage.
